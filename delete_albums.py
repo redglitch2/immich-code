@@ -1,10 +1,7 @@
 import requests
 
-# -------------------
-# CONFIG
-# -------------------
 IMMICH_URL = ""
-API_KEY = ""  # <-- paste your API key here
+API_KEY = "" 
 
 headers = {
     "x-api-key": API_KEY,
